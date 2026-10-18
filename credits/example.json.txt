@@ -1,0 +1,24 @@
+{
+	"hull": "onslaught",
+	"authors": ["Your Name or handle"],
+	"license": "CC-BY-4.0",
+	"basis": "original",
+	"paint": "sprite",
+	"made_with": "Blender 4.2",
+	"source": "where the original model came from (a link), or 'made for this repo'",
+	"fit": 0.94,
+	"notes": ""
+}
+
+Fields:
+  hull       the hull ID (the file names must match it)
+  authors    who to credit
+  license    "CC-BY-4.0" or "CC0-1.0"
+  basis      "original" (modelled freely) or "game-sprite" (made from the game's sprite, e.g. image-to-3D)
+  paint      "sprite"         no .png: the game paints the model with the ship's sprite
+             "own"            a .png painted by you (covered by the license above)
+             "sprite-derived" a .png made from the game's sprite (not covered by the open license)
+  made_with  tools used (e.g. "Blender 4.2", "Hyper3D Rodin 2.5")
+  source     link to the original model, if it came from somewhere else
+  fit        the silhouette fit tools/import.sh printed ("after decimation ... IoU")
+  notes      anything a reviewer should know (import options used, known issues)

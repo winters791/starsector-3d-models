@@ -1,0 +1,36 @@
+This repository holds two kinds of work under two licenses.
+
+1. Models: everything in data/meshes/hulls/ (the .obj files, and any .png paint not marked
+   otherwise in its credits file) is licensed under the Creative Commons Attribution 4.0
+   International license (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/legalcode,
+   unless the model's credits/<hullId>.json names CC0-1.0, in which case that model is
+   dedicated to the public domain under https://creativecommons.org/publicdomain/zero/1.0/legalcode.
+   The authors to credit are listed in each credits/<hullId>.json and in CREDITS.md.
+
+   Exception: a .png whose credits file says "paint": "sprite-derived" was made from
+   Starsector's own ship art. It is not covered by CC BY or CC0; it is included only for
+   use with Starsector, and its rights stay with their owners (Fractal Softworks).
+
+2. Everything else (tools/, the GitHub workflow, the documentation): MIT license.
+
+MIT License
+
+Copyright (c) 2026 udaysingh and Starsector 3D contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
